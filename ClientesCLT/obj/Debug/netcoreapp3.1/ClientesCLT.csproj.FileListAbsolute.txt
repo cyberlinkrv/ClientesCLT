@@ -1,0 +1,17 @@
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\bin\Debug\netcoreapp3.1\ClientesCLT.exe
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\bin\Debug\netcoreapp3.1\ClientesCLT.deps.json
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\bin\Debug\netcoreapp3.1\ClientesCLT.runtimeconfig.json
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\bin\Debug\netcoreapp3.1\ClientesCLT.runtimeconfig.dev.json
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\bin\Debug\netcoreapp3.1\ClientesCLT.dll
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\bin\Debug\netcoreapp3.1\ClientesCLT.pdb
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.csprojAssemblyReference.cache
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.Properties.Resources.resources
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.csproj.GenerateResource.cache
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.AssemblyInfoInputs.cache
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.AssemblyInfo.cs
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.csproj.CoreCompileInputs.cache
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.dll
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.pdb
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.genruntimeconfig.cache
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.CLTLoginForm.resources
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.Forms.CLTinsideForm.resources
