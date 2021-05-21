@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace ClientesCLT.Forms
 {
-    public partial class GameleiraForm : Form
+    public partial class ClientesForm : Form
     {
-        public GameleiraForm()
+        public ClientesForm()
         {
             InitializeComponent();
         }

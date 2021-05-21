@@ -37,7 +37,7 @@ namespace ClientesCLT.Forms
 
         private void menuGameleira_Click(object sender, EventArgs e)
         {
-            GameleiraForm gameleiraForm = new GameleiraForm();
+            ClientesForm gameleiraForm = new ClientesForm();
 
             gameleiraForm.Show();
         }
