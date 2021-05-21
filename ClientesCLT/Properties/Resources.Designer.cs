@@ -113,6 +113,16 @@ namespace ClientesCLT.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Web_Baner_310_x_116 {
+            get {
+                object obj = ResourceManager.GetObject("Web Baner 310 x 116", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Web_Baner_760_x_420 {
             get {
                 object obj = ResourceManager.GetObject("Web Baner 760 x 420", resourceCulture);
