@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace ClientesCLT.Forms
 {
-    public partial class CLTinsideForm : Form
+    public partial class CLTForm : Form
     {
-        public CLTinsideForm()
+        public CLTForm()
         {
             InitializeComponent();
         }
@@ -28,6 +28,18 @@ namespace ClientesCLT.Forms
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void menuGameleira_Click(object sender, EventArgs e)
+        {
+            GameleiraForm gameleiraForm = new GameleiraForm();
+
+            gameleiraForm.Show();
         }
     }
 }

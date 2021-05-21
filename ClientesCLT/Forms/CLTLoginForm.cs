@@ -25,7 +25,7 @@ namespace ClientesCLT
            // Close(); // flecha o formulario
             this.Hide(); //Oculta o formulario
 
-            var logs = new CLTinsideForm(); //stancia o novo formulario
+            var logs = new CLTForm(); //stancia o novo formulario
             logs.Show(); //Carrega o nosso novo formulario.
         }
     }

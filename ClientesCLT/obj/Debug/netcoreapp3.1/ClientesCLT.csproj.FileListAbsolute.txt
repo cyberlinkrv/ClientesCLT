@@ -14,7 +14,6 @@ C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\Cli
 C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.pdb
 C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.genruntimeconfig.cache
 C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.CLTLoginForm.resources
-C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.Forms.CLTinsideForm.resources
 C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
 C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\bin\Debug\netcoreapp3.1\EntityFramework.dll
 C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
@@ -30,3 +29,5 @@ C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\bin\Debug\netcoreapp3.1\run
 C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.csproj.CopyComplete
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.Forms.CLTForm.resources
+C:\Users\Divino\source\repos\ClientesCLT\ClientesCLT\obj\Debug\netcoreapp3.1\ClientesCLT.Forms.GameleiraForm.resources
